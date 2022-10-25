@@ -1,0 +1,71 @@
+
+.boxs{
+    justify-content: center;
+    display: flex;
+    
+}
+.circle{
+    margin:20px;
+    margin-top: 20%;
+    border-style: solid;
+}
+
+
+.one{
+    
+    border-color: 2px black;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: inline-block;
+    
+}
+
+.img-one{
+    width: 70%;
+    padding: 30px;
+
+}
+
+.img-two{
+    width: 70%;
+    padding: 30px;
+
+}
+
+.img-three{
+    width: 70%;
+    padding: 30px;
+
+}
+
+.one-bear{
+    width: 70%;
+    height: 70%;
+    margin:15px;
+    border-radius: 50%;
+}
+
+.two{
+    
+    border-color: 2px black;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: inline-block;
+    
+}
+.three{
+    border-color: 2px black;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: inline-block;
+    
+}
+
+.img1{
+    width: 20%;
+    height: 20%;
+    cursor: pointer;
+}
